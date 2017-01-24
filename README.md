@@ -1,21 +1,24 @@
 <!-- title: Quantopian 與 zipline 推廣教材 -->
 <!-- subtitle: 版本號：v1.0 -->
 
-測試結果： Python 3.4 (成功)  / 3.5 (成功，但複雜)
+測試結果： Python 3.4 / 3.5 (略複雜)
 
 ## 簡介
 
-這是一份引介 [Quantopian](http://quantopian.com/) 量化投資平台與其開源版本 zipline 的中文教材
+這是一份引介 [Quantopian 量化投資平台](http://quantopian.com/) 與其開源版本 [zipline](https://github.com/quantopian/zipline/) 的非官方推廣教材
+ 
+## 純閱覽或進階閱覽的使用指引
 
-1. 
+### 純閱覽
 
-## 使用或安裝需求
+純閱覽者，僅需下載此 repository，解壓縮後點選 QuantopianZipline.slides.html 即可檢視內容。
 
-同學可以參考以下的上手影片：
+### 進階閱覽
 
+進階閱覽者，請依序安裝下列軟體與套件後，以 jupyter/ipython notebook  開啟 QuantopianZipline.ipynb 後進行投影片播放。
 
-或是依照以下的動作快速設定學習環境：
-
+1. 安裝 Python 3.4 版本 (建議使用 [Anaconda 集合安裝套件](https://www.continuum.io/downloads)；
+2. 安裝 jupyter/ipython 的 slideshow 套件：[RISE 套件](https://github.com/damianavila/RISE/)
 
 ## License
 
