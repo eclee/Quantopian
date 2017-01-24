@@ -5,7 +5,7 @@
 
 ## 簡介
 
-這是一份引介 [Quantopian 量化投資平台](http://quantopian.com/) 與其開源版本 [zipline](https://github.com/quantopian/zipline/) 的非官方推廣教材
+這是一份引介 [Quantopian](http://quantopian.com/) 量化投資平台與其開源版本 [zipline](https://github.com/quantopian/zipline/) 的非官方推廣教材
  
 ## 純閱覽或進階閱覽的使用指引
 
