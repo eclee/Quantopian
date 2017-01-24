@@ -1,6 +1,8 @@
 <!-- title: Quantopian 與 zipline 推廣教材 -->
 <!-- subtitle: 版本號：v1.0 -->
 
+# 這是一份引介 Quantopian 量化投資平台與其開源版本 zipline 的非官方推廣教材
+
 測試結果： Python 3.4 / 3.5 (略複雜)
 
 ## 簡介
