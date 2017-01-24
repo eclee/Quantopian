@@ -17,7 +17,7 @@
 
 進階閱覽者，請依序安裝下列軟體與套件後，以 jupyter/ipython notebook  開啟 QuantopianZipline.ipynb 後進行投影片播放。
 
-1. 安裝 Python 3.4 版本 (建議使用 [Anaconda 集合安裝套件](https://www.continuum.io/downloads)；
+1. 安裝 Python 3.4 版本 (建議使用 [Anaconda 集合安裝套件](https://www.continuum.io/downloads) 為之)
 2. 安裝 jupyter/ipython 的 slideshow 套件：[RISE 套件](https://github.com/damianavila/RISE/)
 
 ## License
