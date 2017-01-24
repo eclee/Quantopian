@@ -5,7 +5,7 @@
 
 ## 簡介
 
-這是一份引介 ![Quantopian](http://quantopian.com/) 量化投資平台與其開源版本 zipline 的中文教材
+這是一份引介 [Quantopian](http://quantopian.com/) 量化投資平台與其開源版本 zipline 的中文教材
 
 1. 
 
